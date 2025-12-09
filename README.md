@@ -1,4 +1,4 @@
-CryptoAlarm Nobitex - Advanced local Android app (ZIP)
+CryptoAlarm Nobitex - Advanced local Android app 
 ----------------------------------------------------
 This is a scaffold for an on-device analysis app that focuses on Nobitex markets.
 Open in Android Studio, build APK, install on your device.
